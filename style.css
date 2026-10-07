@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', s
+}
+
+li {
+    display: inline-block;
+}
+nav {
+    display: inline-block;
+}
+header {
+    margin: 30px 0px 144px 70px
+}
+a {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 28px;
+    margin: 0 20px 0 0;
+    cursor: pointer;
+    color: black;
+}
+a:hover
+
+.botao-login {
+    width: 130px;
+    height: 38px;
+    border-radius: 20px;
+    background: #70d5fd;
+    border: none;
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+}
+.botao-login:hover{
+opacity: 0.8;
+
+}
